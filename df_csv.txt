@@ -1,0 +1,16 @@
+	name	class_rank	grade	enroll_date	letter_grade	enroll_year
+9	danny	senior	90.0	1/11/2020	A	2020.0
+14	nancy	senior	95.0	8/10/2019	A	2019.0
+1	emily	senior	80.0	1/11/2019	B	2019.0
+12	jason	senior	85.0	8/10/2019	B	2019.0
+5	ryan	senior		1/11/2019		2019.0
+0	ryland	junior	90.0	8/10/2019	A	2019.0
+10	anna	junior	90.0	1/11/2020	A	2020.0
+13	jamie	junior	90.0	1/11/2020	A	2020.0
+3	john	junior	85.0	1/11/2020	B	2020.0
+4	jane	junior	80.0	8/10/2019	B	2019.0
+7	archie	junior	80.0	8/10/2019	B	2019.0
+11	francis	junior	85.0		B	
+6	jamie	junior	75.0	8/10/2019	C	2019.0
+8	amy		90.0	1/11/2020	A	2020.0
+2	josh					

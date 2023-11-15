@@ -1,0 +1,16 @@
+name	class_rank	grade	enroll_date
+ryland	junior	90	8/10/2019
+emily	senior	80	1/11/2019
+josh			
+john	junior	85	1/11/2020
+jane	junior	80	8/10/2019
+ryan	senior		1/11/2019
+jamie	junior	75	8/10/2019
+archie	junior	80	8/10/2019
+amy		90	1/11/2020
+danny	senior	90	1/11/2020
+anna	junior	90	1/11/2020
+francis	junior	85	
+jason	senior	85	8/10/2019
+jamie	junior	90	1/11/2020
+nancy	senior	95	8/10/2019
